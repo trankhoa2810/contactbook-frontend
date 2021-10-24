@@ -1,4 +1,4 @@
-# contactbook-frontend
+# frontend
 
 ## Project setup
 ```
